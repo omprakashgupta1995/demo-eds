@@ -1,0 +1,19 @@
+.section.background-blue {
+  background-color: blue;
+}
+
+.section.background-blue.text-center {
+  text-align: center;
+}
+
+.block.product-list {
+  background-color: red;
+}
+
+.block.product-list.background-green {
+  background-color: green;
+}
+
+.block.product-list.text-center {
+  text-align: center;
+}
