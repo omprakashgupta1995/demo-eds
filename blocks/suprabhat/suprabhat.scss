@@ -1,0 +1,13 @@
+.suprabhat.block{
+    background-color: red;
+}
+
+.section-first{
+    background-color: #c22626;
+}
+
+.section{
+    &.text-centered{
+        text-align: center;
+    }
+}
