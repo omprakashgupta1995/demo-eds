@@ -1,0 +1,8 @@
+.hero-container{
+    position: relative;
+}
+.banner-container{
+    position: absolute;
+    top: 164px;
+    left: 127px;
+}
