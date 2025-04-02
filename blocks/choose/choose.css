@@ -1,0 +1,78 @@
+main .choose-container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+main .choose-container .default-content-wrapper{
+    width: 30%;
+    margin: 0;
+    padding: 0;
+}
+
+main .choose-container .default-content-wrapper #why-choose-oona {
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 500;
+    color: #21153a;
+    margin: 0;
+    margin-bottom: 16px
+}
+
+main .choose-container .default-content-wrapper p {
+    color: #4f5b66;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 300;
+    margin: 0;
+}
+
+main .choose-container .choose-wrapper{
+    width: 70%;
+    padding: 0;
+}
+
+main .choose-container .choose-wrapper .choose{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+
+main .choose-container .choose-wrapper .choose > div{
+    width: calc(100% / 3);
+    min-height: 145px;
+    padding: 20px 14px 20px 20px;
+    border: 1px solid #673fae;
+    border-radius: 12px;
+}
+
+main .choose-container .choose-wrapper .choose .row-1-col-1 picture img,
+.row-1-col-1 picture img,
+.row-1-col-1 picture img{
+    width: 48px;
+    height: 48px;
+}
+
+main .choose-container .choose-wrapper .choose .row-1-col-2 p,
+.row-2-col-2 p,
+.row-3-col-2 p{
+    margin: 0;
+    font-size: 28px;
+    line-height: 34px;
+    padding: 16px 0 6px 0;
+    font-weight: 500;
+    color: #5f34aa;
+}
+
+main .choose-container .choose-wrapper .choose .row-1-col-3 p,
+.row-2-col-3 p,
+.row-3-col-3 p{
+    font-size: 14px;
+    font-weight: 500;
+    color: #65737e;
+    margin: 0;
+}
