@@ -1,0 +1,25 @@
+main .columnflex .connection-wrapper .connection {
+    display: flex;
+    flex-direction: row;
+    background: #27548D;
+    padding-top: 48px;
+    padding-right: 64px;
+    padding-left: 64px;
+    gap: 94px;
+    border-top-left-radius: 24px;
+    border-bottom-left-radius: 24px;
+}
+main .columnflex .connection-wrapper .connection .row-1{
+    width: 260.7067565917969px;
+    height: 379px;
+    overflow: hidden;
+}
+/* main .columnflex .connection-wrapper .connection .row-2 {
+
+}
+main .columnflex .connection-wrapper .connection .row-2 .row-2-col-1{
+
+}
+main .columnflex .socialmedia-wrapper {
+
+} */
