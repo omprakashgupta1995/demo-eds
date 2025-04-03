@@ -316,11 +316,9 @@ main .listformat .default-content-wrapper ul li {
   gap: 8px;
 }
 
-main .columnfelx {
+main .columnflex {
   
   display: flex;
-  justify-content: center;
-  align-items: center;
   flex-direction: row;
   
 }
