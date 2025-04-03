@@ -7,7 +7,7 @@ export default function decorater(teaser) {
   const containerAll = Array.from(containers.children);
   containerAll.forEach((divs, divsIndex) => {
     divs.classList.add(`box-${divsIndex+1}`);
-
+    
     console.log(divs);
   });
 }
