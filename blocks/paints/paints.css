@@ -1,0 +1,28 @@
+.paints{
+    display: flex;
+    gap: 64px;
+    justify-content: center;
+}
+img{
+    height: 120px;
+    width: 120px;
+    border-radius: 50%;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.header-text{
+    background-color: #16557F;
+    color: #fff;
+    height: 300px;
+    position: relative;
+    /* padding: 35px 72px 0 72px; */
+}
+.paints-container{
+    
+    position: absolute;
+    top: 290px;
+    margin-bottom: 100px;
+}
